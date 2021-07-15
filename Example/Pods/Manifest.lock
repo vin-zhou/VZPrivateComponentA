@@ -1,0 +1,16 @@
+PODS:
+  - VZPrivateComponentA (0.1.0)
+
+DEPENDENCIES:
+  - VZPrivateComponentA (from `../`)
+
+EXTERNAL SOURCES:
+  VZPrivateComponentA:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VZPrivateComponentA: 07353b0a9654ea6307061d671d928135bd107001
+
+PODFILE CHECKSUM: b433e2459aae5966b7bb9d4be41f54197d004444
+
+COCOAPODS: 1.10.1
