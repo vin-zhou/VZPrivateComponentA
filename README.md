@@ -22,7 +22,7 @@ pod 'VZPrivateComponentA'
 
 ## Author
 
-VinZhou, vin.zhou@zoom.us
+V
 
 ## License
 

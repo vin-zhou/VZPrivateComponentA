@@ -31,7 +31,7 @@
 		0DDAD69016E3D8E27FC62D9BBD31E181 /* Pods-VZPrivateComponentA_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-VZPrivateComponentA_Tests-dummy.m"; sourceTree = "<group>"; };
 		0F8AEC5846C8BEAAD442DEA4E4215DCF /* VZPrivateComponentA.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = VZPrivateComponentA.modulemap; sourceTree = "<group>"; };
 		10A8AD128FF73868F54992F28520CB1D /* VZPrivateComponentA-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "VZPrivateComponentA-Info.plist"; sourceTree = "<group>"; };
-		4960A99A22CBC1BF8CA6CE4A4C663F4E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		4960A99A22CBC1BF8CA6CE4A4C663F4E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		500F88F66533CF8878B0544537A42AD5 /* VZPrivateComponentA-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "VZPrivateComponentA-umbrella.h"; sourceTree = "<group>"; };
 		52685D8F6C9699296CB4D18F0E2DB465 /* VZPrivateComponentA.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = VZPrivateComponentA.release.xcconfig; sourceTree = "<group>"; };
 		5A8560A90AB4398C2C78FDD904D35479 /* Pods-VZPrivateComponentA_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-VZPrivateComponentA_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -39,14 +39,14 @@
 		71904F89F8A47EF465B3E17B0F08AF82 /* Pods-VZPrivateComponentA_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-VZPrivateComponentA_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		7ACC60918512171DA5C649B88FD16AC9 /* Pods-VZPrivateComponentA_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-VZPrivateComponentA_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		81FF3A8E340606BD1353AE7D7E85FB3D /* VZPrivateComponentA.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = VZPrivateComponentA.framework; path = VZPrivateComponentA.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		81FF3A8E340606BD1353AE7D7E85FB3D /* VZPrivateComponentA.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = VZPrivateComponentA.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		863747C8969213C11C046EA3C7E79FD4 /* Pods-VZPrivateComponentA_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-VZPrivateComponentA_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		94520A45F301DA81131E4CEECDD1622D /* Pods-VZPrivateComponentA_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-VZPrivateComponentA_Tests.modulemap"; sourceTree = "<group>"; };
-		94EDC671C9D079559CB93B8757D44963 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		94EDC671C9D079559CB93B8757D44963 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		95EF0994945235D09AC32A80F6868461 /* Pods-VZPrivateComponentA_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-VZPrivateComponentA_Tests-Info.plist"; sourceTree = "<group>"; };
-		989C46033DCFFD394F4CC930C618923D /* Pods_VZPrivateComponentA_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_VZPrivateComponentA_Tests.framework; path = "Pods-VZPrivateComponentA_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A62AA8057C4A31CABB3BE868CB11A97F /* VZPrivateComponentA.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = VZPrivateComponentA.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		989C46033DCFFD394F4CC930C618923D /* Pods_VZPrivateComponentA_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_VZPrivateComponentA_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A62AA8057C4A31CABB3BE868CB11A97F /* VZPrivateComponentA.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = VZPrivateComponentA.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		BABEC8B01AE032BB643B2998B053EC95 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = VZPrivateComponentA/Classes/ReplaceMe.m; sourceTree = "<group>"; };
 		BB31B7955B5238B90DC6B26B1416A245 /* VZPrivateComponentA-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "VZPrivateComponentA-prefix.pch"; sourceTree = "<group>"; };
 		DD82628E93A0EFD5D94D3FD6D1459305 /* VZPrivateComponentA-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "VZPrivateComponentA-dummy.m"; sourceTree = "<group>"; };
@@ -431,8 +431,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
