@@ -1,0 +1,6 @@
+use_frameworks!
+target 'VZPrivateComponentA_Tests' do
+  pod 'VZPrivateComponentA', :path => '../'
+  
+  
+end
